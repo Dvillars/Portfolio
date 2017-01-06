@@ -2,18 +2,26 @@ h2 span {
   font-size: 20px;
 }
 
-div h1 {
-  display: inline;
+.row h1 {
   vertical-align: bottom;
 }
 
-img {
-
+html {
+  background-color: black;
 }
 
 body {
+  background-color: black;
+}
+
+.container {
   background-color: #268e5e;
   color: #8effca;
+  text-shadow: -1px 1px 1px #393939;
+}
+
+ul {
+  list-style-type: square;
 }
 
 .jumbotron {
@@ -22,11 +30,30 @@ body {
 }
 
 .jumbotron h1 {
-  text-shadow: 2px 2px #268e5e;
+  text-shadow: -5px 5px 3px #268e5e;
 }
 
-h1, h2, a, h4 {
-  text-shadow: 2px 2px black;
+@media (min-width: 768px) {
+  img {
+    float: right;
+  }
+
+  .container {
+    margin-top: 5px;
+    border-radius: 5px;
+  }
+
+  .jumbotron {
+    margin-top: 5px;
+  }
+}
+
+h4, a {
+  text-shadow: -2px 2px 1px black;
+}
+
+h1, h2 {
+  text-shadow: -3px 3px 1px black;
 }
 
 a {
@@ -35,6 +62,6 @@ a {
 }
 
 a:hover {
-  text-shadow: 2px 2px #8effca;
+  text-shadow: -1px 1px 1px #8effca;
   color: black;
 }
