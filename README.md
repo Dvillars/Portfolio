@@ -1,17 +1,13 @@
-# _ISLAND RESORT WEBSITE_
-#### _**By Renee Mei and Derek Villars, 01/03/2016**_
-#### _To Future self: This this a project to review what we've learned about HTML and CSS_
+# _My-Portfolio_
+#### _**By Derek Villars**_
 
 ## _Description_
-A travel info website contains information of Kuramathi Island resort and its accommadations, activities, travel arrangements, pictures and contact information.
+this should have links to my projects and have my background in programming explained.
 
-## _Know Bugs_
-None. Except not visually appealing maybe.
+## _GitHub Pages Link_
+[->Click Here<-](http://)
 
 ## _Support and Contact_
-If you have problems viewing the site, please don't email meiqianye@email.com or derekvillars@yahoo.com.
+If you have any questions for me, please email me at derekvillars@yahoo.com.
 
-## _Technologies Used_
-HTML, CSS
-
-Copyright (c) 2016 **_Renee Mei and Derek Villars_**
+Copyright (c) 2017 **_Derek Villars_**
