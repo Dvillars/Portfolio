@@ -1,0 +1,16 @@
+h2 span {
+  font-size: 20px;
+}
+
+ol span {
+  text-decoration: underline;
+}
+
+div h1 {
+  display: inline;
+  vertical-align: bottom;
+}
+
+img {
+  border-radius: 15px;
+}
