@@ -2,15 +2,39 @@ h2 span {
   font-size: 20px;
 }
 
-ol span {
-  text-decoration: underline;
-}
-
 div h1 {
   display: inline;
   vertical-align: bottom;
 }
 
 img {
-  border-radius: 15px;
+
+}
+
+body {
+  background-color: #268e5e;
+  color: #8effca;
+}
+
+.jumbotron {
+  background-color: #8effca;
+  color: black;
+}
+
+.jumbotron h1 {
+  text-shadow: 2px 2px #268e5e;
+}
+
+h1, h2, a, h4 {
+  text-shadow: 2px 2px black;
+}
+
+a {
+  color: #8effca;
+  text-decoration: underline;
+}
+
+a:hover {
+  text-shadow: 2px 2px #8effca;
+  color: black;
 }
